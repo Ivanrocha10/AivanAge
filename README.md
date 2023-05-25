@@ -43,9 +43,3 @@ Se você tiver algum feedback, por favor enviar para ivan.rocha.0987@gmail.com
   <img src="./assets/qrcode.png/" alt="qrcode" class="capa">
 
 Caso o QR não funcione, acesse <a href="https://ivanrocha10.github.io/AivanAge/">aqui</a>
-
-style {
- imag {
-  margin: auto;
- }
-}
